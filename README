@@ -1,0 +1,1 @@
+The current system is divided in three sub-sustems: Life_Cycle_Analyzer, Non_Maintainability_detector and Evaluator_difference_scores. Evaluator_difference_scores is based on an external system which is included in the folder ccis-java-evaluation-modelling-maste.Datasets which were used are not included. 
